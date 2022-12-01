@@ -1,0 +1,2 @@
+# gp
+golang awesome package
